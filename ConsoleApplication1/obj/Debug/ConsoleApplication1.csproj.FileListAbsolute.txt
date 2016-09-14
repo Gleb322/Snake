@@ -1,0 +1,5 @@
+D:\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Snake\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Snake\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
